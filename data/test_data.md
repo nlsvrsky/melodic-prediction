@@ -1,0 +1,1 @@
+The melodic prediction algorithm was tested on data used in [Fogel et al. (2015)](https://doi.org/10.3389/fpsyg.2015.01718) and [Morgan et al. (2019)](https://doi.org/10.1016/j.cognition.2018.12.015). See those papers for information on how to access the respective datasets.

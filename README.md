@@ -1,0 +1,3 @@
+This project tested a novel model for predicting the next note in a musical melody. Expectations between musical scale degrees were learned using the algorithm I outline in [this paper](https://doi.org/10.1080/09298215.2018.1542447). Those expectations were then used to predict continuations of musical melodies using the algorithm implemented in [src/predict_melodies.py](src/predict_melodies.py).
+
+This model's predictions were compared against predictions from existing models of melodic expectation tested in [Morgan et al. (2015)](https://doi.org/10.1016/j.cognition.2018.12.015) -- specifically, a variable-order Markov model and a "Gestalt" model. Results of those comparisons are currently under review for publication.
